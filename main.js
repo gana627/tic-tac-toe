@@ -68,3 +68,4 @@ function checkWInner(move) {
 function clearbox(number) {
   document.getElementById("s" + number).innerText = "";
 }
+
